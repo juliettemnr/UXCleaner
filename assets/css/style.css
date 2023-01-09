@@ -94,6 +94,9 @@ h6 {
   animation: animate-preloader 1s linear infinite;
 }
 
+#rose{
+  color: 	#FF1493;
+}
 @-webkit-keyframes animate-preloader {
   0% {
     transform: rotate(0deg);
